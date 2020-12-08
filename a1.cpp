@@ -1,3 +1,6 @@
+include<iostream>
+
+
 static int variable =0;
 
 
